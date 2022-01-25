@@ -1,0 +1,30 @@
+.container-curriculum{
+    background-color:rgb(196, 190, 190);
+    min-height: 100px;  
+}
+footer{
+    background-color: cornflowerblue;
+}
+header{
+    background-image: url('industria.jpg');
+    background-size: 40%;
+    padding-top: 2em;
+}
+.card{
+margin:auto;
+background-color: rgb(91, 83, 119);
+
+}
+h4{
+    text-align: center;
+    font-family:  sans serif;
+    color: rgb(105, 70, 138);
+}
+h3{
+    text-align: center;
+    font-family:  cursive;
+    color: rgb(103, 41, 161);
+}  
+body{
+    background-color: rgb(241, 237, 237);
+}
